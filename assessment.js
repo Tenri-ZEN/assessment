@@ -117,9 +117,7 @@ function test(){
  
 //次郎
 console.log('次郎')
-console.assert(assessment('次郎')==='次郎のいいところはそのすべてです。ありのままの次郎自身がいいところなのです。
-
-'
+console.assert(assessment('次郎')==='次郎のいいところはそのすべてです。ありのままの次郎自身がいいところなのです。'
   );
 
   //花子
